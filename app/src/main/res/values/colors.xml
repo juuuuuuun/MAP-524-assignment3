@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5f27cd</color>
+    <color name="colorPrimaryDark">#2e86de</color>
+    <color name="colorSecondary">#1dd1a1</color>
+    <color name="colorAccent">#ee5253</color>
+    <color name="Yellow">#ff9f43</color>
+    <color name="Pink">#f368e0</color>
+    <color name="Grey">#576574</color>
+    <color name="BlueSky">#0abde3</color>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+
+    <array name="colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorSecondary</item>
+        <item>@color/colorAccent</item>
+        <item>@color/Yellow</item>C
+        <item>@color/Pink</item>
+        <item>@color/BlueSky</item>
+        <item>@color/Grey</item>
+        <item>@color/Black</item>
+    </array>
+
+</resources>

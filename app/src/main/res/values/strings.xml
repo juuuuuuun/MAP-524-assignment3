@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Assignment 3</string>
+    <string name="question1" translatable="false">Toronto is the capital city of Ontario</string>
+    <string name="question2" translatable="false">Vancouver is not the capital city of British Columbia</string>
+    <string name="question3" translatable="false">Charlottetown is the capital city of Prince Edward Island</string>
+    <string name="question4" translatable="false">Montreal is the capital city of Quebec</string>
+    <string name="question5" translatable="false">Seoul is not the capital city of South Korea</string>
+    <string name="question6" translatable="false">Beijing is the capital city of China</string>
+    <string name="question7" translatable="false">Tokyo is not the capital city of Japan</string>
+    <string name="question8" translatable="false">Washington is the capital city of United States of America</string>
+    <string name="answer1">true</string>
+    <string name="answer2">false</string>
+    <string name="answer3">true</string>
+    <string name="answer4">true</string>
+    <string name="answer5">false</string>
+    <string name="answer6">true</string>
+    <string name="answer7">false</string>
+    <string name="answer8">true</string>
+    <string name="question">Question</string>
+    <string name="trueButton" translatable="false">True</string>
+    <string name="falseButton" translatable="false">False</string>
+    <string name="correct_message" translatable="false">Correct</string>
+    <string name="incorrect_message" translatable="false">Incorrect</string>
+    <string name="result" translatable="false">Your Score is: %1$d out of %2$d</string>
+    <string name="total_result" translatable="false">Your correct answers are %1$d in %2$d attempts</string>
+</resources>

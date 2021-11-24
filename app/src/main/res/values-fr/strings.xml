@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Affectation 3</string>
+    <string name="question1" translatable="false">Toronto est la capitale de l\'Ontario</string>
+    <string name="question2" translatable="false">Vancouver n\'est pas la capitale de la Colombie-Britannique</string>
+    <string name="question3" translatable="false">Charlottetown est la capitale de l\'Île-du-Prince-Édouard</string>
+    <string name="question4" translatable="false">Montréal est la capitale du Québec</string>
+    <string name="question5" translatable="false">Séoul n\'est pas la capitale de la Corée du Sud</string>
+    <string name="question6" translatable="false">Beijing est la capitale de la Chine</string>
+    <string name="question7" translatable="false">Tokyo n\'est pas la capitale du Japon</string>
+    <string name="question8" translatable="false">Washington est la capitale des États-Unis d\'Amérique</string>
+    <string name="answer1">true</string>
+    <string name="answer2">false</string>
+    <string name="answer3">true</string>
+    <string name="answer4">true</string>
+    <string name="answer5">false</string>
+    <string name="answer6">true</string>
+    <string name="answer7">false</string>
+    <string name="answer8">true</string>
+    <string name="question">Question</string>
+    <string name="trueButton" translatable="false">Vrai</string>
+    <string name="falseButton" translatable="false">Faux</string>
+    <string name="correct_message" translatable="false">C\'est exact</string>
+    <string name="incorrect_message" translatable="false">Faux</string>
+    <string name="result" translatable="false">Votre score est : %1$d sur %2$d</string>
+    <string name="total_result" translatable="false">Vos bonnes réponses sont %1$d en %2$d tentatives</string>
+</resources>
